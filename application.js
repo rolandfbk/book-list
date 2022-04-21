@@ -48,7 +48,7 @@ function displayList(list) {
     "July", "August", "September", "October", "November", "December"
   ];
 
-  setInterval(myTimer, 1000);
+  setInterval(myTimer, 5);
 
   function myTimer() {
     const date = new Date();
