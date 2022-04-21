@@ -41,7 +41,7 @@ Setup
 👤 **Roland Ossisa Yuma**
 
 >- GitHub: [@rolandfbk](https://github.com/rolandfbk)
->- LinkedIn: [Roland Ossisa Yuma](linkedin.com/in/roland-ossisa-yuma-4595547b)
+>- LinkedIn: [Roland Ossisa Yuma](https://linkedin.com/in/roland-ossisa-yuma-4595547b)
 >- Twitter: [@rolandfbk](https://twitter.com/rolandfbk)
 
 ## 🤝 Contributing
